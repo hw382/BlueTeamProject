@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{05132BEF-3EC1-431A-8E20-B9F1FEA6F134}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLowExchangeRate", "ConsoleApplication1\HighLowExchangeRate.csproj", "{05132BEF-3EC1-431A-8E20-B9F1FEA6F134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighLowTests", "HighLowTests\HighLowTests.csproj", "{C419D347-5790-4970-9ED0-813A2F2EC0EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{05132BEF-3EC1-431A-8E20-B9F1FEA6F134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05132BEF-3EC1-431A-8E20-B9F1FEA6F134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05132BEF-3EC1-431A-8E20-B9F1FEA6F134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C419D347-5790-4970-9ED0-813A2F2EC0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C419D347-5790-4970-9ED0-813A2F2EC0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C419D347-5790-4970-9ED0-813A2F2EC0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C419D347-5790-4970-9ED0-813A2F2EC0EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
